@@ -91,11 +91,11 @@ Only the Host can control:
 
 ## Screenshots
 
-Screenshots and examples of classroom activities will be added here.
+## Interface Overview
 
-<!-- Example:
-![Design Method Board](images/board-overview.png)
--->
+The main interface provides real-time collaboration tools for design-method activities.
+
+![Design Method Board interface overview](images/boardoverview.png)
 
 ---
 
